@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The sober man's vindication, discovering the true cause and manner how Dr. Chamberlen came to be reported mad: which scandal they propagated throughout England, Wales and Ireland, and the same false report was met with in Scotland, France and the low countries.</title>
+            <author>Chamberlen, Peter, 1601-1683.</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18892</idno><idno type="EEBO-CITATION">99888752</idno>
+  <idno type="VID">203969</idno>
+  <idno type="EEBO-PROQUEST">2240901802</idno>
+  
+            <idno type="STC">Wing C1904</idno>
+            <idno type="STC">Interim Tract Supplement Guide 777.k.16.[18]</idno>
+            <idno type="STC">ESTC R231806</idno>
+            <idno type="PROQUEST">ocm99888752</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888752e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18892)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 203969)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; E7:3[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The sober man's vindication, discovering the true cause and manner how Dr. Chamberlen came to be reported mad: which scandal they propagated throughout England, Wales and Ireland, and the same false report was met with in Scotland, France and the low countries.</title>
+                  <author>Chamberlen, Peter, 1601-1683.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Jane Clowes,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At end: "From my cottage over against the Low Conduit by the Church in Coleman-street, 1662.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Chamberlen, Peter, 1601-1683 --  Early works to 1800.</term>
+               <term type="corporate_name">England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term type="topical_term">Religion --  Controversial literature --  Early works to 1800.</term>
+               <term type="topical_term">Health promotion --  Early works to 1800.</term>
+               <term type="topical_term">Poor --  Law and legislation --  England --  Early works to 1800.</term>
+               <term type="topical_term">Political ethics --  Early works to 1800.</term>
+               <term type="geographic_name">London (England) --  History --  17th century --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="testimony">
+            <pb facs="tcp:203969:1"/>
+            <head>The Sober Mans VINDICATION, Discovering the True Cause and Manner how Dr. Chamberlen came to be Reported Mad:</head>
+            <head type="sub">Which Scandal they propagated throughout <hi>England, Wales</hi> and <hi>Ireland,</hi> and the same false Report was met with in <hi>Scotland, France</hi> and the <hi>Low Countries.</hi>
+            </head>
+            <q>He that hath an Ear to Hear, let him HEAR.</q>
+            <p>I PETER CHAMBERLEN, a Servant of the Most High, through the Mercies of Jesus Christ▪ First Physician to the Royal Progeny, and in Ordinary to His Sacred Majesty: To Discharge My Conscience towards God, my Duty, Love and Faithfulness to my Royal Master, to the Parliament, and to my Na<g ref="char:EOLhyphen"/>tive Countrey.</p>
+            <p>Do Testifie, in Presence of God, Angels and Men, that the WOES given me to Denounce against the Bloody City, against the Presbyte<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ean Ministers and Lawyers, and against the <hi>Idol</hi> Parlia<g ref="char:EOLhyphen"/>ment, the <hi>Bloody Parliament,</hi> when they had ALL the POWER in Their Hands, and thought Themselves IMMOVEABLE and SECURE: Sending it with the Sign of the <hi>Bloody Arm</hi> to the Lord Major, and to the <hi>Speaker</hi> that then were, God hath (in part) <hi>Fulfilled,</hi> to the <hi>Amazement</hi> of the World. Because they De<g ref="char:EOLhyphen"/>spised Warning from the Lord, and Counsel to SAVE Many Thou<g ref="char:EOLhyphen"/>sand LIVES and SOULS: Calling Publick things Private, and Private things they called Publick, Branding Me with the Report of Madness, which <hi>Fools</hi> and Others Believe, and report to this Day. But God hath returned the Madness on their own heads, though it was my portion then for Disobedience, because (to avoid the Censure of Madness) I did not personally Proclaim the Woes with a Naked Bloody Arm, and Bare feet, from the <hi>Royal Exchange</hi> to <hi>Westmin<g ref="char:EOLhyphen"/>ster-Hall.</hi>
+            </p>
+            <p>Now let all men Judge, whether the <hi>Woes</hi> are not come to pass in a great measure. When the City was brought under the Power of the Sword? Her Magistrates Disgrac't, Displac't, and Others in Their room, at the Lust, and Pleasure, or Discretion of the strongest Weapon? But they are not yet <hi>Burnt</hi> or <hi>Massacred</hi> (as some Feared, and Others Maliciously reported they should be) by Ana<g ref="char:EOLhyphen"/>baptists: What they may be by Others of their Own Chusing, if they repent not, is not for me to Determine.</p>
+            <p>Were not some <hi>Woes</hi> fulfilled on the Presbyterian Ministers, when Some were Beheaded, Some forced to recant for their Lives, and Many turn'd Independents: and All at this day in Present Danger of Per<g ref="char:EOLhyphen"/>jury for Compelling Their Scottish Covenant?</p>
+            <p>Were not also the Lawyers Termes made Vacation, the Inns of Court Desolate, Inhabited by a few Women and Landresses, and Lawyers Gownes Threatned to be Hung up by the Scottish Co<g ref="char:EOLhyphen"/>lours?</p>
+            <p>But were not the Woes fulfilled most of all against the PAR<g ref="char:EOLhyphen"/>LIAMENT so often Pieced and Made up till it became like Sir <hi>Francis Drakes</hi> Ship (scarce one Planck left of the Old One) yet at last broken up, then Whistled for again by the Souldiers, and Broken up again, and by Some of Themselves, with others, revil'd into the Stinck and Scorn of a Rump? Are not All their Members Scattered; their Names Blotted with Ignominy, Some Imprisoned, and Some brought to the Grave in Blood and Sorrow?</p>
+            <p>Not that I dare Judge them Greater Sinners than Those, on whom the Tower of <hi>Shilo</hi> fell: for the Words of our Saviour are,</p>
+            <q>
+               <hi>UNLESS YE REPENT, YE SHALL ALL LIKEWISE PERISH.</hi>
+            </q>
+            <p>The <hi>Arm</hi> of the Lord is not shortned. There is yet a <hi>Cup</hi> of <hi>Trembling</hi> in the Hand of the Lord.</p>
+            <p>
+               <hi>Many great Works may yet be done, which are not.</hi>
+            </p>
+            <div type="part">
+               <head>I SWEAR</head>
+               <p>
+                  <hi>(with my Right Hand lift up towards Heaven, in All fear and Awful Reverence) By HIM that LIVETH</hi> for <hi>Ever</hi> and <hi>Ever.</hi> That <hi>Made Heaven, Earth</hi> and <hi>Sea,</hi> and <hi>All</hi> that Therein is.</p>
+               <list>
+                  <item>1. THREE THOUSAND LIVES a year may be SAVED.</item>
+                  <item>2. THE PLAGUE (monaced by Astrologers) PREVEN<g ref="char:EOLhyphen"/>TED.</item>
+                  <item>3. DISTEMPERS of the NATIONS HEALED.</item>
+                  <item>4. THE Numerous POOR MAINTAINED.</item>
+                  <item>5. AND some GLEANINGS of the HARVEST and VINTAGE <hi>(which might have filled the King's Coffers)</hi> IMPROVED.</item>
+               </list>
+               <p>If His Majesty and Parliament, Judge these things Publick, or Ne<g ref="char:EOLhyphen"/>cessary; They have more Right and Power to Command My At<g ref="char:EOLhyphen"/>tendance (who am in subjection and but ONE) then I have Abili<g ref="char:EOLhyphen"/>ty, Wisdom, or Polity, to know their Leisure, and to Solicite them ALL (who are MANY, and in HIGH PLACES.) But if I be not Credited, and for WANT of them any Judgements happen, Their own Conscience will Clear me before the GRAND TRIBUNAL; where we must All Appear.</p>
+               <closer>
+                  <hi>To God</hi> onely <hi>Wise</hi> and <hi>Good</hi> be All <hi>Glory.</hi>
+               </closer>
+               <closer>AMEN.</closer>
+               <epigraph>
+                  <q>FEAR GOD. HONOUR THE KING.</q>
+               </epigraph>
+               <closer>
+                  <dateline>
+                     <hi>From my Cottage over against the Low Conduit by the Church in Coleman<g ref="char:EOLhyphen"/>street,</hi>
+                     <date>1662.</date>
+                  </dateline>
+               </closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>London, Printed by Jane Clowes, 1662.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
